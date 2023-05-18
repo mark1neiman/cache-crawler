@@ -23,7 +23,7 @@ const sitemapIndexUrl = 'https://website.com/sitemap_index.xml';
 ```bash
 node getUrls.js
 ```
-5. Start the Crawlet
+5. Start the Crawler
 ```bash
-node crawlet.js
+node crawler.js
 ```
